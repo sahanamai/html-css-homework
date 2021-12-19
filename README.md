@@ -1,8 +1,9 @@
 # html-css-homework
-The web page uses all the semantic Html elements.
-web page title is named as Horiseon.
-Html tags <header>,<section>,<nav> and <footer>is included.
-<id> tag forsearch engine image is included so that the link function properly.
-alt attribute is added for images.All html elements follow logical structure.
-css application files are commented properly.
-Deployed URL:https://sahanamai.github.io/html-css-homework/
+The work of this assignment was to update html and css files provided to be more accessible.
+##Major Changes
+*consolidated css classes that were similar.
+*Html elemnts <header>,<nav>,<section><footer>is included.
+ *id is missing, and its added.
+ *comments are included
+ *alt tags added to every image.
+##Deployed URL:https://sahanamai.github.io/html-css-homework/
